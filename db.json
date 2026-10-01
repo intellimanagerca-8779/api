@@ -1,0 +1,6 @@
+{
+  "clients": [
+    { "id": 1, "title": "G1", "enabled":true },
+    { "id": 2, "title": "G2", "enabled":false  }
+  ],
+}
